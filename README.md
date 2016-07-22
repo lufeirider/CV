@@ -14,6 +14,9 @@ https://forum.90sec.org/forum.php?mod=viewthread&tid=8320
 在t00ls发的文章
 https://www.t00ls.net/thread-33484-1-1.html
 
+在github的源码
+https://github.com/lufeirider/
+
 还有一些比较杂乱
 http://yun.baidu.com/share/home?uk=791961923&view=share#category/type=0
 
