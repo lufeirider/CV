@@ -1,5 +1,5 @@
 Wooyun发过的漏洞
-![image](https://github.com/lufeirider/CV/blob/master/2.jpg)
+![image](https://github.com/lufeirider/CV/blob/master/1.jpg)
 ![image](https://github.com/lufeirider/CV/blob/master/2.jpg)
 
 在Wooyun发过的文章
