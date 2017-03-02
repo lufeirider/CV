@@ -5,6 +5,9 @@ Wooyun发过的漏洞
 在Wooyun发过的文章
 http://static.hx99.net/static/drops/tools-15038.html
 
+在安全客发过的文章
+http://bobao.360.cn/learning/detail/3555.html
+
 在Freebuf发过的文章
 http://www.freebuf.com/sectool/75118.html
 
