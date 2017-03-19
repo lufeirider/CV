@@ -11,4 +11,7 @@ http://blog.csdn.net/aqxin/article/details/48324377
 /lib 标准程序设计库，又叫动态链接共享库，作用类似windows里的.dll文件
 
 /dev 设备特殊文件
-://blog.csdn.net/zbffff/article/details/25047323
+http://blog.csdn.net/zbffff/article/details/25047323
+
+移动存储，系统自动挂载的时候一般会放在/media
+固定存储，系统自动挂载一般放在/mnt
