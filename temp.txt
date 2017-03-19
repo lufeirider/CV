@@ -29,3 +29,5 @@ http://blog.csdn.net/u012107143/article/details/54972544?utm_source=itdadao&utm_
 
 find / -name "*test.h"
 locate "test.h" 寻找包含test.h的字符
+
+wc test.txt 统计文件的 行数 字数 大小
