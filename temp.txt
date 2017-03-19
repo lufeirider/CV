@@ -2,3 +2,8 @@ linux
 http://www.cnblogs.com/zcy_soft/archive/2011/12/23/2299939.html
 
 http://tieba.baidu.com/p/1853607526
+
+/etc是配置文件的目录
+/var是储存各种变化的文件，比如log等等
+
+http://blog.csdn.net/aqxin/article/details/48324377
