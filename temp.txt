@@ -15,3 +15,6 @@ http://blog.csdn.net/zbffff/article/details/25047323
 
 移动存储，系统自动挂载的时候一般会放在/media
 固定存储，系统自动挂载一般放在/mnt
+
+/SElinux
+http://blog.sina.com.cn/s/blog_6954b9a901014dh4.html
