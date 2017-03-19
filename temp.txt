@@ -18,3 +18,7 @@ http://blog.csdn.net/zbffff/article/details/25047323
 
 /SElinux
 http://blog.sina.com.cn/s/blog_6954b9a901014dh4.html
+
+
+/run 目录是说, 里面的东西是系统运行时需要的, 不能随便删除. 但是重启的时候应该抛弃. 下次系统运行时重新生成. 
+在我的电脑上, /run是个tmpfs, /var/run是个指向/run的链接, 换句话说他俩是同一个东西.
