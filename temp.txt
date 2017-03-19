@@ -25,3 +25,7 @@ http://blog.sina.com.cn/s/blog_6954b9a901014dh4.html
 
 关于linux下/srv、/var和/tmp的职责区分
 http://blog.csdn.net/u012107143/article/details/54972544?utm_source=itdadao&utm_medium=referral
+
+
+find / -name "*test.h"
+locate "test.h" 寻找包含test.h的字符
