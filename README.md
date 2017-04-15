@@ -23,3 +23,11 @@ https://github.com/lufeirider/
 还有一些比较杂的文章和工具
 http://yun.baidu.com/share/home?uk=791961923&view=share#category/type=0
 
+
+脱壳系列笔记
+http://www.52pojie.cn/thread-589731-1-1.html（笔记之最后一次异常法的技巧）
+http://www.52pojie.cn/thread-589741-1-1.html（笔记之压缩壳的trick）
+http://www.52pojie.cn/thread-590328-1-1.html（笔记之压缩壳通用寻找oep的方法）
+http://www.52pojie.cn/thread-597782-1-1.html（笔记之误解的TLS反调试）
+http://www.52pojie.cn/thread-598363-1-1.html（笔记之寻找特征来寻找OEP）
+http://www.52pojie.cn/thread-599758-1-1.html（笔记之不抓瞎的内存法）
