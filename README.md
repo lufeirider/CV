@@ -1,6 +1,5 @@
 Wooyun发过的漏洞
-![image](https://github.com/lufeirider/CV/blob/master/1.jpg)
-![image](https://github.com/lufeirider/CV/blob/master/2.jpg)
+大一的时候比较闲，喜欢挖一些腾讯，百度，优酷一些大厂商的SQL，XSS等没有技术含量的漏洞。（乌云id:路飞）
 
 在Wooyun发过的文章
 http://static.hx99.net/static/drops/tools-15038.html (sqlmap支持自动伪静态批量检测)
@@ -25,6 +24,7 @@ http://yun.baidu.com/share/home?uk=791961923&view=share#category/type=0
 
 
 脱壳系列笔记
+
 http://www.52pojie.cn/thread-589731-1-1.html（笔记之最后一次异常法的技巧）
 
 http://www.52pojie.cn/thread-589741-1-1.html（笔记之压缩壳的trick）
