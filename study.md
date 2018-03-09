@@ -3,6 +3,10 @@
 ## Python
 [协程](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/0013868328689835ecd883d910145dfa8227b539725e5ed000)
 
+[Python xrange与range的区别](http://www.nowamagic.net/academy/detail/1302446)
+
+[Python：yield关键字以及next、send函数的作用](http://blog.csdn.net/mingc0758/article/details/53783001)
+
 ## Linux c
 [使用 inotify 监控文件系统的活动](https://www.ibm.com/developerworks/cn/linux/l-ubuntu-inotify/)
 
