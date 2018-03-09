@@ -1,7 +1,12 @@
 # 开发
+[进程，线程，协程与并行，并发](https://www.jianshu.com/p/f11724034d50)
+## Python
+[协程](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/0013868328689835ecd883d910145dfa8227b539725e5ed000)
+
 ## Linux c
 [使用 inotify 监控文件系统的活动](https://www.ibm.com/developerworks/cn/linux/l-ubuntu-inotify/)
 
+[Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
 # Linux
 ## 目录
 
