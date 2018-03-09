@@ -34,6 +34,7 @@ linux lsof命令详解
 http://blog.csdn.net/weiwangsisoftstone/article/details/39581967
 
 awk内建变量示例详解之NR、FNR、NF
+
 http://www.letuknowit.com/topics/20120329/sample-about-awk-build-in-variable-nr-fnr-nf.html/
 
 SELinux 入门简介
