@@ -18,3 +18,6 @@ http://blog.csdn.net/u012107143/article/details/54972544
 /dev 设备特殊文件
 
 http://blog.csdn.net/zbffff/article/details/25047323
+
+SELinux 入门简介
+http://www.ha97.com/4336.html
