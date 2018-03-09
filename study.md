@@ -1,4 +1,7 @@
+# Python
+
 # Linux
+##目录
 linux中bin和sbin目录的主要区别
 
 http://www.cnblogs.com/zcy_soft/archive/2011/12/23/2299939.html
@@ -18,6 +21,15 @@ http://blog.csdn.net/u012107143/article/details/54972544
 /dev 设备特殊文件
 
 http://blog.csdn.net/zbffff/article/details/25047323
+
+## 命令
+./configure --prefix --with解释
+
+http://blog.csdn.net/lgstudyvc/article/details/47803579
+
+linux lsof命令详解
+
+http://blog.csdn.net/weiwangsisoftstone/article/details/39581967
 
 SELinux 入门简介
 
