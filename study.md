@@ -1,7 +1,7 @@
 # Python
 
 # Linux
-##目录
+## 目录
 
 linux中bin和sbin目录的主要区别
 
@@ -24,6 +24,7 @@ http://blog.csdn.net/u012107143/article/details/54972544
 http://blog.csdn.net/zbffff/article/details/25047323
 
 ## 命令
+
 ./configure --prefix --with解释
 
 http://blog.csdn.net/lgstudyvc/article/details/47803579
@@ -31,6 +32,9 @@ http://blog.csdn.net/lgstudyvc/article/details/47803579
 linux lsof命令详解
 
 http://blog.csdn.net/weiwangsisoftstone/article/details/39581967
+
+awk内建变量示例详解之NR、FNR、NF
+http://www.letuknowit.com/topics/20120329/sample-about-awk-build-in-variable-nr-fnr-nf.html/
 
 SELinux 入门简介
 
