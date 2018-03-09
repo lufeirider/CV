@@ -1,4 +1,4 @@
-<h1>Linux</h1>
+# Linux
 linux中bin和sbin目录的主要区别
 http://www.cnblogs.com/zcy_soft/archive/2011/12/23/2299939.html
 
