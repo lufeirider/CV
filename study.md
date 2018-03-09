@@ -1,4 +1,6 @@
-# Python
+# 开发
+##Linux c
+[example link](https://www.ibm.com/developerworks/cn/linux/l-ubuntu-inotify/)
 
 # Linux
 ## 目录
