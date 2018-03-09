@@ -41,7 +41,11 @@
 
 [awk内建变量示例详解之NR、FNR、NF](http://www.letuknowit.com/topics/20120329/sample-about-awk-build-in-variable-nr-fnr-nf.html/)
 
+
+## 常用操作
 [测试Linux端口的连通性的四种方法](http://blog.csdn.net/lzxomg/article/details/76349887)
+
+[Linux查看系统版本的方法汇总](http://www.jb51.net/article/108196.htm "Linux查看系统版本的方法汇总")
 
 
 ## 机制
@@ -53,7 +57,7 @@
 
 
 # Windows
-(浅谈Windows 7系统启动过程)[http://blog.csdn.net/mycwq/article/details/51863075]
+[浅谈Windows 7系统启动过程](http://blog.csdn.net/mycwq/article/details/51863075)
 
 
 # WEB安全
@@ -80,6 +84,7 @@
 
 
 # 软件配置与安装
-(apache如何解决跨域资源访问)[https://www.cnblogs.com/wangluochong/p/6001651.html]
+[apache如何解决跨域资源访问](https://www.cnblogs.com/wangluochong/p/6001651.html)
+
 
 
