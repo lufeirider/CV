@@ -1,5 +1,8 @@
 # 开发
 [进程，线程，协程与并行，并发](https://www.jianshu.com/p/f11724034d50)
+
+[怎样理解阻塞非阻塞与同步异步的区别？](https://www.zhihu.com/question/19732473/answer/23434554)
+
 ## Python
 [协程](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/0013868328689835ecd883d910145dfa8227b539725e5ed000)
 
@@ -7,10 +10,15 @@
 
 [Python：yield关键字以及next、send函数的作用](http://blog.csdn.net/mingc0758/article/details/53783001)
 
+[Python yield 使用浅析](https://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/)
+
 ## Linux c
 [使用 inotify 监控文件系统的活动](https://www.ibm.com/developerworks/cn/linux/l-ubuntu-inotify/)
 
 [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
+
+[Linux Kernel epoll Subsystem "eventpoll.c"多个本地拒绝服务漏洞](https://www.linuxidc.com/Linux/2012-02/55000.htm)
+
 # Linux
 ## 目录
 
@@ -32,4 +40,25 @@
 
 [awk内建变量示例详解之NR、FNR、NF](http://www.letuknowit.com/topics/20120329/sample-about-awk-build-in-variable-nr-fnr-nf.html/)
 
+[测试Linux端口的连通性的四种方法](http://blog.csdn.net/lzxomg/article/details/76349887)
+
+
+## 机制
+[Linux系统启动过程](https://www.cnblogs.com/codecc/p/boot.html)
+
 [SELinux 入门简介](http://www.ha97.com/4336.html)
+
+[Linux下程序单例模式的保证机制：/var/run/*.pid](http://blog.csdn.net/szkbsgy/article/details/50639198)
+
+# WEB安全
+
+## 命令执行
+[命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
+
+[Linux应急响应姿势浅谈](https://xianzhi.aliyun.com/forum/topic/48)
+
+[黑客入侵应急分析手工排查](https://xianzhi.aliyun.com/forum/topic/1140)
+
+
+## 应急响应
+[应急响应笔记](https://www.t00ls.net/thread-44161-1-1.html)
