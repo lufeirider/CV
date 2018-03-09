@@ -3,7 +3,7 @@
 
 [怎样理解阻塞非阻塞与同步异步的区别？](https://www.zhihu.com/question/19732473/answer/23434554)
 
-## Python
+### Python
 [协程](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/0013868328689835ecd883d910145dfa8227b539725e5ed000)
 
 [Python xrange与range的区别](http://www.nowamagic.net/academy/detail/1302446)
@@ -12,7 +12,12 @@
 
 [Python yield 使用浅析](https://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/)
 
-## Linux c
+[Python Socket模块中的IP转换函数](http://blog.csdn.net/fan_hai_ping/article/details/8435140 "Python Socket模块中的IP转换函数")
+
+### Android
+[Android studio DELETE_FAILED_INTERNAL_ERROR Error while Installing APKs](http://blog.csdn.net/wujian543/article/details/70225019 "Android studio DELETE_FAILED_INTERNAL_ERROR Error while Installing APKs")
+
+### Linux c
 [使用 inotify 监控文件系统的活动](https://www.ibm.com/developerworks/cn/linux/l-ubuntu-inotify/)
 
 [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
@@ -21,7 +26,7 @@
 
 
 # Linux
-## 目录
+### 目录
 
 [linux中bin和sbin目录的主要区别](http://www.cnblogs.com/zcy_soft/archive/2011/12/23/2299939.html)
 
@@ -33,7 +38,7 @@
 
 [/dev 设备特殊文件](http://blog.csdn.net/zbffff/article/details/25047323)
 
-## 命令
+### 命令
 
 [./configure --prefix --with解释](http://blog.csdn.net/lgstudyvc/article/details/47803579)
 
@@ -42,13 +47,13 @@
 [awk内建变量示例详解之NR、FNR、NF](http://www.letuknowit.com/topics/20120329/sample-about-awk-build-in-variable-nr-fnr-nf.html/)
 
 
-## 常用操作
+### 常用操作
 [测试Linux端口的连通性的四种方法](http://blog.csdn.net/lzxomg/article/details/76349887)
 
 [Linux查看系统版本的方法汇总](http://www.jb51.net/article/108196.htm "Linux查看系统版本的方法汇总")
 
 
-## 机制
+### 机制
 [Linux系统启动过程](https://www.cnblogs.com/codecc/p/boot.html)
 
 [SELinux 入门简介](http://www.ha97.com/4336.html)
@@ -61,30 +66,45 @@
 
 
 # WEB安全
-## SQL
+### 信息收集
+[绕过CDN查找网站真实IP方法收集](https://www.t00ls.net/viewthread.php?tid=36160 "绕过CDN查找网站真实IP方法收集")
+
+### SQL
 [冷门知识 — NoSQL注入知多少](http://www.52bug.cn/%E9%BB%91%E5%AE%A2%E6%8A%80%E6%9C%AF/4504.html)
 
-## XSS
+### XSS
 [JSONP与CORS漏洞挖掘](https://www.anquanke.com/post/id/97671)
 
-## 命令执行
+[漫谈同源策略攻防](https://www.anquanke.com/post/id/86078 "漫谈同源策略攻防")
+
+[深入理解浏览器解析机制和XSS向量编码](http://bobao.360.cn/learning/detail/292.html "深入理解浏览器解析机制和XSS向量编码")
+
+[浅谈XSS的小技巧与浏览器编码](http://pupiles.com/xss.html "浅谈XSS的小技巧与浏览器编码")
+
+[【前端安全】JavaScript防http劫持与XSS](https://www.cnblogs.com/wjlog/p/5790568.html "【前端安全】JavaScript防http劫持与XSS")
+
+### 命令执行
 [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
 
 [浅谈CTF中命令执行与绕过的小技巧](http://www.freebuf.com/articles/web/137923.html)
 
+### 跨网
+[Metasploit 「跨网段攻击」添加路由表](https://www.bodkin.ren/index.php/archives/405/ "Metasploit 「跨网段攻击」添加路由表")
 
+### RPO
+[初探 Relative Path Overwrite](https://xianzhi.aliyun.com/forum/topic/193 "初探 Relative Path Overwrite")
 
-## 应急响应
+### 应急响应
 [应急响应笔记](https://www.t00ls.net/thread-44161-1-1.html)
 
 [Linux应急响应姿势浅谈](https://xianzhi.aliyun.com/forum/topic/48)
 
 [黑客入侵应急分析手工排查](https://xianzhi.aliyun.com/forum/topic/1140)
 
+[反射DDOS攻击防御的一点小想法](http://www.freebuf.com/column/138163.html "反射DDOS攻击防御的一点小想法")
+
+[如何简单的防御syn攻击](http://www.freebuf.com/column/132945.html "如何简单的防御syn攻击")
 
 
 # 软件配置与安装
 [apache如何解决跨域资源访问](https://www.cnblogs.com/wangluochong/p/6001651.html)
-
-
-
