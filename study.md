@@ -19,6 +19,7 @@
 
 [Linux Kernel epoll Subsystem "eventpoll.c"多个本地拒绝服务漏洞](https://www.linuxidc.com/Linux/2012-02/55000.htm)
 
+
 # Linux
 ## 目录
 
@@ -50,7 +51,14 @@
 
 [Linux下程序单例模式的保证机制：/var/run/*.pid](http://blog.csdn.net/szkbsgy/article/details/50639198)
 
+
+# Windows
+(浅谈Windows 7系统启动过程)[http://blog.csdn.net/mycwq/article/details/51863075]
+
+
 # WEB安全
+## SQL
+[冷门知识 — NoSQL注入知多少](http://www.52bug.cn/%E9%BB%91%E5%AE%A2%E6%8A%80%E6%9C%AF/4504.html)
 
 ## 命令执行
 [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
