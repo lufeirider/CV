@@ -60,13 +60,26 @@
 ## SQL
 [冷门知识 — NoSQL注入知多少](http://www.52bug.cn/%E9%BB%91%E5%AE%A2%E6%8A%80%E6%9C%AF/4504.html)
 
+## XSS
+[JSONP与CORS漏洞挖掘](https://www.anquanke.com/post/id/97671)
+
 ## 命令执行
 [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
+
+[浅谈CTF中命令执行与绕过的小技巧](http://www.freebuf.com/articles/web/137923.html)
+
+
+
+## 应急响应
+[应急响应笔记](https://www.t00ls.net/thread-44161-1-1.html)
 
 [Linux应急响应姿势浅谈](https://xianzhi.aliyun.com/forum/topic/48)
 
 [黑客入侵应急分析手工排查](https://xianzhi.aliyun.com/forum/topic/1140)
 
 
-## 应急响应
-[应急响应笔记](https://www.t00ls.net/thread-44161-1-1.html)
+
+# 软件配置与安装
+(apache如何解决跨域资源访问)[https://www.cnblogs.com/wangluochong/p/6001651.html]
+
+
