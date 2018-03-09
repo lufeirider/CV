@@ -2,6 +2,7 @@
 
 # Linux
 ##目录
+
 linux中bin和sbin目录的主要区别
 
 http://www.cnblogs.com/zcy_soft/archive/2011/12/23/2299939.html
